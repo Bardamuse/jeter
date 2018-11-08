@@ -1,6 +1,6 @@
 # -*- coding: utf8 -*-
 from math import sqrt
-# Résolution équation ax2+bx+c=0
+
 
 print
 print 'Résolution d\'une équation du second degré'
@@ -8,7 +8,7 @@ print 'Dans R'
 print 'de type aX*X + bX + c = 0'
 print
 
-#saisie des coef
+
 
 a=float (input('a = '))
 b=float (input('b = '))
@@ -27,4 +27,4 @@ if b*b-4*a*c > 0 :
 	print 'x1 = ',x1
 	print 'x2 = ',x2
 print
-#fin 
+
