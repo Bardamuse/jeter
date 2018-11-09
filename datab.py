@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# pour GitHub
+
 import MySQLdb as mdb
 import sys
 
